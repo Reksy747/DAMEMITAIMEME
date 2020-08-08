@@ -1,2 +1,2 @@
-# DameMitaiMeme
+# DeepFakeMemeMaker
 MEME Project
